@@ -1,5 +1,3 @@
-# Exercises
-
 ## NEISS
 The data in the folder `data/neiss` contains:
 

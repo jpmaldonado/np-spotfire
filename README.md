@@ -6,11 +6,12 @@ Materials for a two-day course in Spotfire covering:
 - Overview. Sharing and creating dashboards.
 - Loading and managing datasets. Relations and column matches.
 - Metrics and calculated columns.
-- Interactive features in the Text area.
+- Data manipulation in visualizations with custom expressions.
+- Bookmarks, lists and tags.
  
 ## Day 2
 - Working with visualizations: marking and filters.
-- Data manipulation in visualizations with custom expressions.
+- Interactive features in the Text area.
 - R and Python scripting and data manipulation.
 - Mathematical Modelling tools in Spotfire.
 
