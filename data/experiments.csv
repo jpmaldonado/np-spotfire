@@ -1,0 +1,23 @@
+﻿Code,Type,Debut,Fin,Anomalies,test1,test2,test3,test4,test5,test6,test7,test8,test9,test10
+E105,Essai de vieillissement,10/04/2023,10/05/2023,15,OK,OK,OK,KO,OK,OK,OK,OK,OK,OK
+E105.0,VBF initiale,10/05/2023,10/05/2023,,OK,OK,OK,OK,OK,OK,OK,OK,OK,OK
+E105.00,Etuve,11/05/2023,13/05/2023,,OK,OK,OK,OK,OK,OK,OK,OK,OK,OK
+E105.16,VBF intermédiaire 28 jours,17/04/2023,17/05/2023,16,OK,OK,OK,KO,OK,OK,OK,OK,OK,OK
+E105.17,50 relevés EURIDIS,17/05/2023,17/05/2023,,OK,OK,OK,OK,OK,OK,OK,OK,OK,OK
+E105.18,50 programmations CPL,17/05/2023,17/05/2023,,OK,OK,OK,OK,OK,OK,OK,OK,OK,OK
+E105.1,Immunité aux creux de tension,20/05/2023,20/05/2023,,NA,OK,OK,NA,OK,OK,OK,OK,OK,OK
+E105.2,Immunité aux coupures brèves,20/05/2023,20/05/2023,,NA,OK,OK,NA,OK,OK,OK,OK,OK,OK
+E105.5,Contrôle de la métrologie,22/05/2023,22/05/2023,,NA,OK,OK,NA,OK,OK,OK,OK,OK,OK
+E105.6,Mesure de la puissance du signal CPL ,22/05/2023,22/05/2023,,NA,OK,OK,NA,OK,OK,OK,OK,OK,OK
+E105.7,Mesure du niveau du signal de la TIC ,20/05/2023,20/05/2023,,NA,OK,OK,NA,OK,OK,OK,OK,OK,OK
+E105.8,"Mesure des caractéristiques électriques
+de la TIC",20/05/2023,20/05/2023,,NA,OK,OK,NA,OK,OK,OK,OK,OK,OK
+E105.9,Mesure du niveau du signal Euridis ,20/05/2023,20/05/2023,,NA,OK,OK,NA,OK,OK,OK,OK,OK,OK
+E105.10,Mesure de la consommation du compteur,21/05/2023,21/05/2023,,NA,OK,OK,NA,OK,OK,OK,OK,OK,OK
+E105.11,Mesure de la consommation (circuit de courant),10/05/2023,10/05/2023,,OK,OK,OK,NA,OK,OK,OK,OK,OK,OK
+E105.12,Contrôle de la durée de réserve de marche,22/05/2023,27/05/2023,,OK,NA,NA,NA,NA,NA,NA,NA,NA,NA
+E105.13,Mesure de l'impédance entre la phase et le neutre des compteurs,21/05/2023,21/05/2023,,NA,OK,OK,NA,OK,OK,OK,OK,OK,OK
+E105.4,Contrôle de l'afficheur,23/05/2023,27/05/2023,,OK,OK,OK,NA,OK,OK,OK,OK,OK,OK
+E105.3,Onde de chocs,28/05/2023,28/05/2023,,NA,OK,OK,NA,OK,NA,OK,OK,OK,OK
+E105.15,VBF finale,23/05/2023,30/05/2023,,OK,OK,OK,NA,OK,OK,OK,OK,OK,OK
+E105.14,Contrôle visuel,22/05/2023,30/05/2023,,OK,OK,OK,NA,OK,OK,OK,OK,OK,OK
