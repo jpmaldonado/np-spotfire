@@ -30,7 +30,15 @@ Using the `flight-delays` file, use visualizations to show:
 - Total Delay by Airline
 - Variation of Total Delay per Time	
 	
-### Exercise 4 - Pivot and unpivot
+### Exercise 4 - Hierarchies
+For this exercise we will use the `procurement` data set.
+- Calculate total expense (`Volume` * `Price`) and name it `TotalSpent`.
+- Calculate TotalSpent by a) category b) by category and subcategory as new calculated
+columns in table.
+- Create a hierarchy Location > Category > Subcategory 
+- Use the hierarchy to show TotalSpent.	
+	
+### Exercise 5 - Pivot and unpivot
 Calculate, using the `adult` data set, a pivot table with columns:
 - Work class.
 - Number of people with income > 50k.
@@ -42,7 +50,7 @@ Calculate, using the `experiments` data set, an unpivoted table that shows the c
 - Test.
 - Status (OK, KO or NA).
 
-### Exercise 5 - Wine Classification
+### Exercise 6 - Wine Classification
 - Create a classification model that classifies wine per category.
 - Visualize the different classes of wines according to their numerical attributes.
 

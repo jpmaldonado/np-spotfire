@@ -15,10 +15,10 @@ Materials for a two-day course in Spotfire covering:
 - R and Python scripting and data manipulation.
 - Mathematical Modelling tools in Spotfire.
 
-
 ## References
 - [Dr Spotfire](https://www.youtube.com/@DrSpotfire)
 - [Big Mountain Analytics](https://bigmountainanalytics.com/)
 - [Spotfire Cheatsheet](http://votolab.blogspot.com/2016/09/tibco-spotfire-professional-quick.html)
+- [IronPython Quick Reference](https://www.sf-ref.com/)
 - [IronPython Scripts](https://github.com/essejhsif/spotfire)
 - [Spotfire Official Documentation](https://docs.tibco.com/pub/sfire-analyst/latest/doc/html/en-US/TIB_sfire-analyst_UsersGuide/index.htm#t=intro%2Fintro_this_is_Spotfire.htm)
